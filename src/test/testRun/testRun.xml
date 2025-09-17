@@ -9,7 +9,6 @@
             <class name="Users.deleteUser"/>
         </classes>
     </test>
-
     <test name="Book_API_Tests">
         <classes>
             <class name="Books.getAllBooks"/>
